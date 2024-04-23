@@ -1,0 +1,1 @@
+Run hof.ipynb cell by cell and look at the outputs.
