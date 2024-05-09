@@ -24,35 +24,35 @@ After implementing all three models, I found that the Random Forest Classifier p
 ## Results
 Using the trained Random Forest Classifier on unretired/recently retired players, I found that these players are predicted to enter the Hall of Fame.
 
-*LaMarcus Aldridge
-*Giannis Antetokounmpo
-*Carmelo Anthony
-*Jimmy Butler
-*Vince Carter
-*Stephen Curry
-*Anthony Davis
-*DeMar DeRozan
-*Kevin Durant
-*Joel Embiid
-*Pau Gasol
-*Paul George
-*Draymond Green
-*Blake Griffin
-*James Harden
-*Al Horford
-*Dwight Howard
-*Kyrie Irving
-*LeBron James
-*Joe Johnson
-*Nikola Jokić
-*Kawhi Leonard
-*Damian Lillard
-*Kevin Love
-*Kyle Lowry
-*Paul Millsap
-*Dirk Nowitzki
-*Tony Parker
-*Chris Paul
-*Dwyane Wade
-*Russell Westbrook
+* LaMarcus Aldridge
+* Giannis Antetokounmpo
+* Carmelo Anthony
+* Jimmy Butler
+* Vince Carter
+* Stephen Curry
+* Anthony Davis
+* DeMar DeRozan
+* Kevin Durant
+* Joel Embiid
+* Pau Gasol
+* Paul George
+* Draymond Green
+* Blake Griffin
+* James Harden
+* Al Horford
+* Dwight Howard
+* Kyrie Irving
+* LeBron James
+* Joe Johnson
+* Nikola Jokić
+* Kawhi Leonard
+* Damian Lillard
+* Kevin Love
+* Kyle Lowry
+* Paul Millsap
+* Dirk Nowitzki
+* Tony Parker
+* Chris Paul
+* Dwyane Wade
+* Russell Westbrook
 
